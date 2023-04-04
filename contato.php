@@ -28,11 +28,6 @@
     color: #fff;
     letter-spacing: 0.0625em;
 }
-#mensagem {
-  text-align: center;
-  color: #35C154;
-  padding-top: 10px;
-}
 
   /* Estilo para o título "Formulário de Contato" */
   h5 {
