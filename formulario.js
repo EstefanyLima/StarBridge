@@ -13,7 +13,7 @@ $(document).ready(function() {
 		let comment = $("#comment").val();
 
 		if (!(nome.lenght > 2) && (email.lenght > 5) && (comment.lenght > 10)) {
-			alert("preencha corretamente o Frmulário!");
+			alert("preencha corretamente o Formulário!");
 		} else {
 
 			// Selecionar método e URL de destino
